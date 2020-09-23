@@ -1,0 +1,3 @@
+Change2 in File1
+Change1 in File1
+This is First Commit, Tracking File1 and FileToDelete
